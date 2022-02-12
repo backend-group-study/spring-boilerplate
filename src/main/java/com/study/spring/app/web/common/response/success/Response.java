@@ -1,4 +1,4 @@
-package com.study.spring.common.response;
+package com.study.spring.app.web.common.response.success;
 
 import lombok.Getter;
 import org.springframework.http.HttpStatus;
